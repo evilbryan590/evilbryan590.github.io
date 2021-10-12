@@ -3,15 +3,16 @@
 Hi, I'm Bryan.  
 I graduated with bachelors of science in computer science in the spring of 2021.  
 I currently have no previous work experience.  
+I'm currently learning game development while slowly working towards a job.  
 
 ## Languages
 
 Programming Languages:
-- Java, C++
+- Java, C++  
 Web Dev:
-- HTML5, CSS, MYSQL
+- HTML5, CSS, MYSQL  
 Scripting:
-- SQL, 
+- C#, Python
 
 ## Skills
 
