@@ -28,19 +28,15 @@ I currently have no previous work experience.
 
 
 ### Current Experimental Work
-```
 - Clicker Game
 I'm going to attempt to make some form of a clicker game.
-1) I need to finish my current prototype that uses some form of an ascension mechanic and resets all leveled up values.
-2) I need to make a rough UI design for the next game. The game should take 2 weeks to a month to complete.
-3) I need to learn about math for game devs to learn different types of reletive scaling to make the game fun. 
-4) I need to get assets for the clicker game to cause some form of reward system. Probably will use cat pictures every XYZ upgrades and make a cat clicker with a gallery of pictures.
-```
+    1) I need to finish my current prototype that uses some form of an ascension mechanic and resets all leveled up values.
+    2) I need to make a rough UI design for the next game. The game should take 2 weeks to a month to complete.
+    3) I need to learn about math for game devs to learn different types of reletive scaling to make the game fun. 
+    4) I need to get assets for the clicker game to cause some form of reward system. Probably will use cat pictures every XYZ upgrades and make a cat clicker with a gallery of pictures.
 
-```
 - Pong
 I'd like to try to add extremely simple AI to this project: Make the enemy paddle just move towards where the ball's current up/down location is always, as the ball continuiously gets slowly faster.
-```
 
 ### Previous Games
 - cocos2d game - defend the wall (Video)
@@ -50,7 +46,7 @@ I'd like to try to add extremely simple AI to this project: Make the enemy paddl
 ### University Team Projects
 
 - Managing the Software Development Process: Radiation Detection GUI Design
-    Turning a client's feedback into a design for our developer to create
+    \nTurning a client's feedback into a design for our developer to create
     Caused prototypes to be made, enforcing an agile-like environment within this small team project with a focus on satisfying the client
     
 - Software Engineering: Database
