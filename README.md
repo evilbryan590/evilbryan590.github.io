@@ -1,4 +1,4 @@
-# Portfolio
+# Hey Nerds
 
 Hi, I'm Bryan.  
 I graduated with bachelors of science in computer science in the spring of 2021.  
