@@ -4,29 +4,27 @@ Hi, I'm Bryan.
 I graduated with bachelors of science in computer science in the spring of 2021.
 I currently have no previous work experience.
 
-## Skillset
-```
-### Programming Languages
+## Programming Languages
+
 - Java, C++, C#
 - HTML5, CSS, MYSQL
 - SQL
-- 
-```
+
 ## Skills
-```
+
 - Data Structures
 - Cyber Security
 - Website Development
 - Database Management, Relational Databases
 - Data Structures & Algorithms
 - Operating Systems
-```
+
 ## Personal Skills
-```
+
 - Analytical
 - Detail Oriented
 - Resilliant
-```
+
 
 
 ### Current Experimental Work
