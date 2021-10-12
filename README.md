@@ -30,11 +30,11 @@ I currently have no previous work experience.
 ### Current Experimental Work
 Clicker Game
 
-I'm currently working on a clicker game
-1) I need to finish my current prototype that uses some form of an ascension mechanic and resets all leveled up values.
-2) I need to make a rough UI design for the next game. The game should take 2 weeks to a month to complete.
-3) I need to learn about math for game devs to learn different types of reletive scaling to make the game fun. 
-4) I need to get assets for the clicker game to cause some form of reward system. Probably will use cat pictures every XYZ upgrades and make a cat clicker with a gallery of pictures.
+I'm currently working on a clicker game; Todo:
+- Finish my current prototype that uses some form of an ascension mechanic and resets all leveled up values.
+- Make a rough UI design for the next game. The game should take 2 weeks to a month to complete.
+- Learn about math for game devs to learn different types of reletive scaling to make the game fun. 
+- Obtain assets for the clicker game to cause some form of reward system. Probably will use cat pictures every XYZ upgrades and make a cat clicker with a gallery of pictures.
 
 Pong
 I'd like to try to add extremely simple AI to this project: Make the enemy paddle just move towards where the ball's current up/down location is always, as the ball continuiously gets slowly faster.
