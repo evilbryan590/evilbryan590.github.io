@@ -1,13 +1,16 @@
 # Portfolio
 
-Hi, I'm Bryan.
-I graduated with bachelors of science in computer science in the spring of 2021.
-I currently have no previous work experience.
+Hi, I'm Bryan.  
+I graduated with bachelors of science in computer science in the spring of 2021.  
+I currently have no previous work experience.  
 
 ## Programming Languages
 
-- Java, C++, C#
+OOP:
+- Java, C++
+Web Dev:
 - HTML5, CSS, MYSQL
+Scripting:
 - SQL
 
 ## Skills
