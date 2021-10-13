@@ -23,6 +23,12 @@ Scripting:
 - Data Structures & Algorithms
 - Operating Systems
 
+- Photo Editing
+- Video Editing
+- Basic Sound Editing
+- Windows 10, 7, Linux
+- Excel, Powerpoint, Word
+
 ## Personal Skills
 
 - Analytical
